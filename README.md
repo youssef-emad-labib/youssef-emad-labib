@@ -1,6 +1,6 @@
 # Hi there, I'm Youssef Emad 👋
 
-### 🌐 Telecommunications & Electronics Engineer | CCNA Certified
+### 🌐 Telecommunications & Electronics Engineer | CCNA Track
 CCNA-certified Electronics & Communications Engineering student at Sphinx University. Specializing in **Computer Networking, Network Security, and Cloud Infrastructure**.
 
 ---
